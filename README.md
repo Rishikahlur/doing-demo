@@ -1,4 +1,4 @@
 # doing-demo
 This is my first Git Repositry.
 <br>
-Auhtor-Rishi Tiwari
+Author-Rishi Tiwari apna time ayega.
